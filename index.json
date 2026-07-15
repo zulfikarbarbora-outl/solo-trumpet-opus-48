@@ -1,0 +1,165 @@
+{
+  "library": "solo-trumpet",
+  "displayName": "Solo Trumpet",
+  "description": "Solo trumpet multisamples — sustained synth trumpet tones at 8 chromatic pitches (Akai AX80 'Synth Trumpet' pack 17233 by modularsamples, CC0) + 3 real trumpet one-shots at C (James_KuKu 'Brass C Note' pack 41487, CC0).",
+  "format": "opus-48k",
+  "sourceRepo": "https://freesound.org/people/modularsamples/packs/17233/",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/solo-trumpet-opus-48",
+  "branch": "main",
+  "fileCount": 11,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trumpet-opus-48/main/",
+  "files": [
+    {
+      "file": "trumpet_synth_Ds3.opus",
+      "name": "trumpet_synth_Ds3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trumpet-opus-48/main/trumpet_synth_Ds3.opus",
+      "size": 42632,
+      "freesoundId": 280635,
+      "duration": 8.3,
+      "rootNote": 51,
+      "license": "CC0-1.0",
+      "source": "modularsamples Akai AX80 Synth Trumpet pack"
+    },
+    {
+      "file": "trumpet_synth_Cs4.opus",
+      "name": "trumpet_synth_Cs4",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trumpet-opus-48/main/trumpet_synth_Cs4.opus",
+      "size": 49584,
+      "freesoundId": 280637,
+      "duration": 8.3,
+      "rootNote": 61,
+      "license": "CC0-1.0",
+      "source": "modularsamples Akai AX80 Synth Trumpet pack"
+    },
+    {
+      "file": "trumpet_synth_B4.opus",
+      "name": "trumpet_synth_B4",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trumpet-opus-48/main/trumpet_synth_B4.opus",
+      "size": 56769,
+      "freesoundId": 280639,
+      "duration": 8.3,
+      "rootNote": 71,
+      "license": "CC0-1.0",
+      "source": "modularsamples Akai AX80 Synth Trumpet pack"
+    },
+    {
+      "file": "trumpet_synth_E5.opus",
+      "name": "trumpet_synth_E5",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trumpet-opus-48/main/trumpet_synth_E5.opus",
+      "size": 59426,
+      "freesoundId": 280640,
+      "duration": 8.3,
+      "rootNote": 76,
+      "license": "CC0-1.0",
+      "source": "modularsamples Akai AX80 Synth Trumpet pack"
+    },
+    {
+      "file": "trumpet_synth_A5.opus",
+      "name": "trumpet_synth_A5",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trumpet-opus-48/main/trumpet_synth_A5.opus",
+      "size": 64225,
+      "freesoundId": 280641,
+      "duration": 8.3,
+      "rootNote": 81,
+      "license": "CC0-1.0",
+      "source": "modularsamples Akai AX80 Synth Trumpet pack"
+    },
+    {
+      "file": "trumpet_synth_D6.opus",
+      "name": "trumpet_synth_D6",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trumpet-opus-48/main/trumpet_synth_D6.opus",
+      "size": 70688,
+      "freesoundId": 280642,
+      "duration": 8.3,
+      "rootNote": 86,
+      "license": "CC0-1.0",
+      "source": "modularsamples Akai AX80 Synth Trumpet pack"
+    },
+    {
+      "file": "trumpet_synth_Fs6.opus",
+      "name": "trumpet_synth_Fs6",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trumpet-opus-48/main/trumpet_synth_Fs6.opus",
+      "size": 71712,
+      "freesoundId": 280643,
+      "duration": 8.3,
+      "rootNote": 90,
+      "license": "CC0-1.0",
+      "source": "modularsamples Akai AX80 Synth Trumpet pack"
+    },
+    {
+      "file": "trumpet_synth_C7.opus",
+      "name": "trumpet_synth_C7",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trumpet-opus-48/main/trumpet_synth_C7.opus",
+      "size": 84939,
+      "freesoundId": 280644,
+      "duration": 8.3,
+      "rootNote": 96,
+      "license": "CC0-1.0",
+      "source": "modularsamples Akai AX80 Synth Trumpet pack"
+    },
+    {
+      "file": "trumpet_real_Party_C.opus",
+      "name": "trumpet_real_Party_C",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trumpet-opus-48/main/trumpet_real_Party_C.opus",
+      "size": 3128,
+      "freesoundId": 747985,
+      "duration": 0.5,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "James_KuKu Brass C Note pack"
+    },
+    {
+      "file": "trumpet_real_Start_C.opus",
+      "name": "trumpet_real_Start_C",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trumpet-opus-48/main/trumpet_real_Start_C.opus",
+      "size": 9888,
+      "freesoundId": 747988,
+      "duration": 1.2,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "James_KuKu Brass C Note pack"
+    },
+    {
+      "file": "trumpet_real_Blood_C.opus",
+      "name": "trumpet_real_Blood_C",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trumpet-opus-48/main/trumpet_real_Blood_C.opus",
+      "size": 8507,
+      "freesoundId": 747972,
+      "duration": 1.2,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "James_KuKu Brass C Note pack"
+    }
+  ],
+  "byNote": {
+    "51": [
+      "trumpet_synth_Ds3.opus"
+    ],
+    "60": [
+      "trumpet_real_Party_C.opus",
+      "trumpet_real_Start_C.opus",
+      "trumpet_real_Blood_C.opus"
+    ],
+    "61": [
+      "trumpet_synth_Cs4.opus"
+    ],
+    "71": [
+      "trumpet_synth_B4.opus"
+    ],
+    "76": [
+      "trumpet_synth_E5.opus"
+    ],
+    "81": [
+      "trumpet_synth_A5.opus"
+    ],
+    "86": [
+      "trumpet_synth_D6.opus"
+    ],
+    "90": [
+      "trumpet_synth_Fs6.opus"
+    ],
+    "96": [
+      "trumpet_synth_C7.opus"
+    ]
+  }
+}
